@@ -1,0 +1,7 @@
+mods/*/gpui-kit.d.ts
+.DS_Store
+
+# Fremtind trademarks: not published, generate locally (see README)
+mods/fremtind-chrome/fremtind-wordmark.svg
+mods/fremtind-chrome/fremtind-symbol.svg
+layouts/fremtind.svg
